@@ -9,8 +9,3 @@ So here is the task we have to make a model, which can predict the sentences or 
 
 To generate the next word or next word prediction is also called a language modeling task.
 
-# Detailed Explanation
-https://shivambaldha.medium.com/gmail-smart-compose-ad4c0f311d5b
-
-# Webapp Link
-https://share.streamlit.io/shivambaldha/gmail_smart_compose_app/main/app.py
