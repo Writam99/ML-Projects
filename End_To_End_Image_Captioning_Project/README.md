@@ -24,10 +24,5 @@ The Image Captioning system follows the following steps:
 - NumPy
 - NLTK
 
-## Installation
 
-1. Clone the repository:
-
-### app link(not fitted perfectly due to limited resources so that there would be chances of wrong predictions
-https://sunilgiri7-end-to-end-image-screening-project-streamlit-z7uirv.streamlit.app/
 
